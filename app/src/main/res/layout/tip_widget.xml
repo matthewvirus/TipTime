@@ -14,14 +14,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:contentDescription="HELLO"
-        android:text="@string/appwidget_text"
+        android:text="@string/do_not_forget_to_send_a_tip"
         android:textSize="24sp"
-        android:textStyle="bold|italic" />
-
-    <Button
-        android:layout_width="278dp"
-        android:layout_height="64dp"
-        android:layout_alignParentEnd="true"
-        android:layout_marginEnd="59dp" />
+        android:textStyle="italic" />
 </RelativeLayout>
